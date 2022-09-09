@@ -1,6 +1,7 @@
-The Link: https://codesandbox.io/s/todo-list-react-zyg5ue?file=/src/App.js
 
 # Getting Started with Create React App
+
+This project was deployed on https://effortless-monstera-7c8737.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
